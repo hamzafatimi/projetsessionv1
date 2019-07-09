@@ -9,5 +9,5 @@
  * @author 1795698
  */
 public class terrain {
-    
+    private double prix;
 }
